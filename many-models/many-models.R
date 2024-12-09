@@ -3,6 +3,8 @@
 # LECTURE: MANY MODELS
 # 
 
+#modifications
+
 # In this lecture we will closely follow chapter 25 of Hadley Wickham's book "R
 # for data science". He starts the chapter by identifying three learning goals
 # with this chapter:
